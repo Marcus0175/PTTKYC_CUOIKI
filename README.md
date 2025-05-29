@@ -1,28 +1,3 @@
-#Gym Management System
-
-Hệ thống quản lý phòng tập gym toàn diện được xây dựng bằng React.js (frontend) và Node.js/Express (backend) với MongoDB làm cơ sở dữ liệu.
-
-##Công nghệ sử dụng
-
-### Backend
-- **Node.js & Express.js**: Server framework
-- **MongoDB & Mongoose**: Database và ODM
-- **JWT (JSON Web Tokens)**: Authentication
-- **Express Validator**: Validation dữ liệu
-- **Multer**: Upload file
-- **CORS**: Cross-origin resource sharing
-- **dotenv**: Environment variables
-
-### Frontend
-- **React.js**: UI framework
-- **Material-UI (MUI)**: Component library
-- **React Router DOM**: Routing
-- **Axios**: HTTP client
-- **Context API**: State management
-- **React Hooks**: State và lifecycle management
-- **Date-fns**: Date manipulation
-- **Recharts**: Charts và graphs
-
 ## 📋 Yêu cầu hệ thống
 
 - Node.js 14.x hoặc cao hơn
