@@ -48,18 +48,18 @@ npm start
 ```
 
 ## 🔍 Sử dụng tài khoản có sẵn sau khi chạy
-### Test flow Admin:
+### Quản trị viên
 Tài khoản / Mật khẩu : `Manager / 111222`
 
-### Test flow Receptionist:
+### Lễ tân:
 Tài khoản / Mật khẩu : `letan1 / 111222`
 
 
-### Test flow Trainer:
+### Huấn luyện viên:
 Tài khoản / Mật khẩu : `vanbhlv / 111222`
 
 
-### Test flow Customer:
+### Khách hàng:
 Tài khoản / Mật khẩu : `nguyenvana / 111222`
 
 
