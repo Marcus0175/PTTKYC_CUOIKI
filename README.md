@@ -1,8 +1,8 @@
-# Family Gym Management System
+#Gym Management System
 
 Hệ thống quản lý phòng tập gym toàn diện được xây dựng bằng React.js (frontend) và Node.js/Express (backend) với MongoDB làm cơ sở dữ liệu.
 
-## 🛠️ Công nghệ sử dụng
+##Công nghệ sử dụng
 
 ### Backend
 - **Node.js & Express.js**: Server framework
